@@ -209,3 +209,11 @@ footer{
   align-items: center;
   box-shadow: 0 7px 20px 3px rgba(0, 0, 0, 0.506);
 }
+@media (min-width: 576px) { 
+  .container *{
+    display: block;
+  }
+  .wrap_button a{
+    text-align: center;
+  }
+}
