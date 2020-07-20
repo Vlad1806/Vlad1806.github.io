@@ -181,6 +181,7 @@ background: #665BFF;
 }
 #info_scaffolding_1,#info_tower_1,#info_fanera_1{
   display: block;
+    overflow: scroll;
 }
 #info_tower_2{
   display: none;
